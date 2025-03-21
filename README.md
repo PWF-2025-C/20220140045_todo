@@ -64,3 +64,37 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+
+
+Screenshoot
+1.Terminal install breezee
+
+![image](https://github.com/user-attachments/assets/76cdcace-ab8a-4ac2-ab40-0cc81de9200e)
+
+
+
+
+2.VSCode – web.ph
+
+![image](https://github.com/user-attachments/assets/96998a0b-a96c-4546-bd31-525d2274b8f8)
+
+
+
+
+
+3.Browser – http://nim-todo.test/dashboard, login dengan user dengan user yang ada di step 3 
+
+![image](https://github.com/user-attachments/assets/1b89306d-a7c9-4fe7-ab84-25cf1bc5b6ac)
+
+
+
+
+
+4.tabel user
+
+![image](https://github.com/user-attachments/assets/53119da1-3b77-4e91-a6a3-23231a7e29ec)
+
