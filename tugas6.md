@@ -1,12 +1,7 @@
 # Tugas 6
 
 ## 1. Todo Completed
-<<<<<<< HEAD
 ![alt text](screenshot\tugas6\todocompleted.png)
-=======
-![todocompleted](https://github.com/user-attachments/assets/c56ed83d-09df-4a9c-83d4-de895e762bf5)
-
->>>>>>> 44c694b905b37af482739d707c0ed8763c215ef5
 
 ## 2. Todo Uncompleted
 ![todouncompleted](https://github.com/user-attachments/assets/80325acc-56b5-4a4b-9181-4a51f8c53d8d)
